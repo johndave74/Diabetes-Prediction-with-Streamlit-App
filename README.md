@@ -144,7 +144,8 @@ https://your-app-name.streamlit.app
 ---
 
 ## 🔥 Demo Screenshot  
-![Diabetes Prediction UI](./screenshot.png)  
+![Diabetes Prediction UI]![streamlit dashboard](https://github.com/user-attachments/assets/6c37cf91-e3ea-488b-9156-8f473a11bb23)
+
 
 ---
 
