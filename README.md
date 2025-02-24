@@ -3,10 +3,7 @@ A Machine Learning-powered Diabetes Prediction System built with Python, Scikit-
 
 ![image](https://github.com/user-attachments/assets/73fac92d-685f-4f81-8b05-958a40b1b5b6)
 
-### **📝Diabetes Prediction System**  
-
-# 🩺 Diabetes Prediction System  
-A Machine Learning-powered **Diabetes Prediction System** built with **Python, Scikit-Learn, and Streamlit** for real-time predictions.
+### **📝Diabetes Prediction System** 
 
 ## 🚀 Project Overview  
 This project aims to predict whether a person has diabetes based on medical attributes like glucose levels, BMI, blood pressure, etc. The system is deployed using **Streamlit** for an interactive and user-friendly experience.
@@ -14,9 +11,6 @@ This project aims to predict whether a person has diabetes based on medical attr
 
 # 🩺 Diabetes Prediction System  
 A Machine Learning-powered **Diabetes Prediction System** built with **Python, Scikit-Learn, and Streamlit** for real-time predictions.
-
-## 🚀 Project Overview  
-This project aims to predict whether a person has diabetes based on medical attributes like glucose levels, BMI, blood pressure, etc. The system is deployed using **Streamlit** for an interactive and user-friendly experience.
 
 ## 📌 Features  
 ✔ **User-friendly Web Interface** powered by Streamlit  
@@ -35,7 +29,7 @@ This project aims to predict whether a person has diabetes based on medical attr
 
 ---
 
-## ⚙️ Machine Learning Workflow  
+## ⚙️ Machine Learning Workflow
 
 ### 1️⃣ Data Collection  
 The dataset used is the **PIMA Diabetes Dataset**, which contains medical records of **768** individuals, including:  
